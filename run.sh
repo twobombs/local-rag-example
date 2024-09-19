@@ -1,4 +1,4 @@
 #!/bin/bash
-streamlit run app.py
+streamlit run /local-rag-example/app.py
 
 tail -f /dev/null
